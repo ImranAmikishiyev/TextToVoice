@@ -1,0 +1,13 @@
+# ключ
+key.json
+
+# временные файлы
+*.ogg
+*.wav
+
+# системные директории
+__pycache__/
+venv/
+.env
+.idea/
+.vscode/

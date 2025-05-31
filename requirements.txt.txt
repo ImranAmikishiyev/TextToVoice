@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+pydub
+SpeechRecognition
+requests
+PyJWT
